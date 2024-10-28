@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a Angular based Mobile-App to control a custom PCB<br>🌱 I’m currently learning Mobile Development with the Ionic Framework<br>💬 Ask me abou: .Net and Blazor<br>
+🔭 I’m currently working on a Angular based Mobile-App to control a custom PCB<br>🌱 I’m currently learning Mobile Development with the Ionic Framework and Deployment with Capacitor<br>💬 Ask me abou: .Net and Blazor<br>
 
 
 # 💻 Tech Stack:
