@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on a Angular based Mobile-App to control a custom PCB<br>🌱 I’m currently learning Networking and Deployment with Docker Compose<br>💬 Ask me about: .Net, Docker and Blazor<br>
+🔭 I’m currently working on improving old Projects and digging deeper into working with Linux<br>🌱 I’m currently learning Webdesign basics and creating Websites with Angularbr>💬 Ask me about: .Net, Docker and Blazor<br>
 
 
 # 💻 Tech Stack:
