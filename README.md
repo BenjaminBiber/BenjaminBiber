@@ -1,5 +1,5 @@
 # 💫 About Me:
-🔭 I’m currently working on improving old Projects and digging deeper into working with Linux<br>🌱 I’m currently learning Webdesign basics and creating Websites with Angularbr>💬 Ask me about: .Net, Docker and Blazor<br>
+🔭 I’m currently working on an automated Barkeeper for better Drink dispensing<br>🌱 I’m currently learning PCB Design and Clean Code Architecture <br>💬 Ask me about: .Net, Docker and Blazor<br>
 
 
 # 💻 Tech Stack:
